@@ -372,7 +372,7 @@ func (rw *RWMutex) Unlock() {
 ![](https://raw.githubusercontent.com/DYX1112/putArticle-finance/main/4.png)     
        
 
-**参考文章**
-[](https://blog.csdn.net/baolingye/article/details/111357407)
-[](https://zhuanlan.zhihu.com/p/393257803)
-[](https://zhuanlan.zhihu.com/p/397460154)
+**参考文章**      
+<https://blog.csdn.net/baolingye/article/details/111357407>
+<https://zhuanlan.zhihu.com/p/393257803>
+<https://zhuanlan.zhihu.com/p/397460154>
